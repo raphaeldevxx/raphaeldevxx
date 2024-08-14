@@ -1,4 +1,4 @@
-<h2 align="center">Hi! 👋 My name is Raphael and I'm a alloromantic asexual, non binary from Germany.</h2>
+<h2 align="center">Hi! 👋 My name is Raphael and I'm a aromantic asexual, non binary from Germany.</h2>
 
 ###
 
