@@ -35,6 +35,7 @@
 
 ###
 
+<h2 align=“center”>Profile Views 👁️</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/raphaeldevxx/count.svg?"  />
 </div>
