@@ -31,6 +31,6 @@
 
 ###
 
-<h2 align=“center”>My birthday: 26.05.2003 🍰</h2> <h3 align=“center”>Sternzeichen: Zwilling ♊</h3>
+<h2 align=“center”>My birthday: 26.05.2003 🍰 | Sternzeichen: Zwilling ♊</h2>
 
 ###
