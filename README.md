@@ -31,10 +31,6 @@
 
 ###
 
-<h2 align=“center”>My birthday: 26.05.2003 🍰 | Zodiac sign: Gemini ♊</h2>
-
-###
-
 <h2 align=“center”>Profile Views 👁️</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/raphaeldevxx/count.svg?"  />
