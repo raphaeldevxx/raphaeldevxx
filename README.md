@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -37,6 +33,10 @@
 
 <h2 align=“center”>My birthday: 26.05.2003 🍰 | Zodiac sign: Gemini ♊</h2>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/raphaeldevxx/count.svg?"  />
+</div>
 
 ###
