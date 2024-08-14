@@ -31,6 +31,6 @@
 
 ###
 
-<div align=“center”> <img src=“https://img.shields.io/badge/Geburtstag-26.05.2003-ff69b4?logo=cakephp&logoColor=white&style=for-the-badge” height=“30” alt=“birthday logo” /> </div>
+<h2 align="center">My birthday: 26.05.2003 🍰</h2>
 
 ###
